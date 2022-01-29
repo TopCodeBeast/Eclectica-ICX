@@ -1,0 +1,22 @@
+{
+  "default": {
+    "voiceInfo": {
+      "lang": "en-US",
+      "speaker": "Kate",
+      "speed": 0.7,
+      "variation": 40
+    },
+    "phrases": {
+      "blockchain_i":[{"text":"Blockchain is a system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system. A blockchain is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain."}],
+      "nft_i":[{"text":"Non-fungible tokens or NFTs are cryptographic assets on a blockchain with unique identification codes and metadata that distinguish them from each other. Unlike cryptocurrencies, they cannot be traded or exchanged at equivalency. This differs from fungible tokens like cryptocurrencies, which are identical to each other and, therefore, can be used as a medium for commercial transactions."}],
+      "defi_i":[{"text":"Decentralized finance often called DeFi or open finance refers to the economic paradigm shift enabled by decentralized technologies, particularly blockchain networks. DeFi signals the shift from a historically centralized and closed financial system toward a universally accessible economy that is based on open protocols that are interoperable, programmable, and composable. From streamlined and secure payment networks to automated loans to USD-pegged stablecoins, decentralized finance has emerged as one of the most active sectors in the blockchain space."}],
+      "dao_i":[{"text":"A decentralized autonomous organization (DAO), sometimes called a decentralized autonomous corporation (DAC), is an organization represented by rules encoded as a computer program that is transparent, controlled by the organization members and not influenced by a central government. A DAO's financial transaction record and program rules are maintained on a blockchain. The precise legal status of this type of business organization is unclear."}]
+    },
+    "macros": {
+      "blockchain_i":{},
+      "nft_i":{},
+      "defi_i":{},
+      "dao_i":{}
+    }
+  }
+}

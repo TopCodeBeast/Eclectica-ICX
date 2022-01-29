@@ -1,0 +1,53 @@
+{
+    "version": "v2",
+    "intents": {
+        "blockchain":{
+            "includes":[
+                "what is blockchain?",
+                "i want to learn about blockchain.",
+                "what is use of blockchain?",
+                "i want to know about blockchain.",
+                "i like to know about blockchain.",
+                "how blockchain works?",
+                "why blockchain is needed?"
+            ]
+        },
+        "nft":{
+            "includes":[
+                "what is nft?",
+                "i like to know about nft.",
+                "i wanted to learn about nft.",
+                "what is non fungible tokens?",
+                "is nft art?",
+                "how nft works?",
+                "what is the use of nft?",
+                "how nft can be helpful?"
+            ]
+        },
+        "defi":{
+            "includes":[
+                "What is decentralized finance?",
+                "what is defi?",
+                "how i can use blockchain for finance?",
+                "can we use blockchain for finance?",
+                "i want to learn about defi.",
+                "i want to know about defi.",
+                "how defi is useful?",
+                "how defi works?",
+                "meaning of term defi?"
+            ]
+        },
+        "dao":{
+            "includes":[
+                "What is dao?",
+                "i want to know about dao",
+                "i like to know about dao",
+                "what is decentralized autonomous organization?",
+                "how can i create decentralized organization.",
+                "how can blockchain help to create transperent organization?",
+                "how dao works in blockchain?",
+                "what is use of dao?"
+            ]
+        }
+    }
+  }
